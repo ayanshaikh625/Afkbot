@@ -1,4 +1,3 @@
-
 const mineflayer = require('mineflayer');
 const { Movements, pathfinder, goals } = require('mineflayer-pathfinder');
 const { GoalBlock } = goals;
